@@ -29,7 +29,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>内测app的bundleidentifier</string>
+                <string>com.jutime.yingjuyun</string>
                 <key>bundle-version</key>
                 <string>1.0.1</string>
                 <key>kind</key>
