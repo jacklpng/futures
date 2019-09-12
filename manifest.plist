@@ -10,19 +10,19 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <key>https://github.com/jacklpng/futures/blob/master/futures-0911.ipa</key>
+                    <key>https://github.com/jacklpng/futures/raw/master/futures-0911.ipa</key>
                     <string>ipa的下载地址</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
-                    <key>https://github.com/jacklpng/futures/blob/master/futures-57.png</key>
+                    <key>https://raw.githubusercontent.com/jacklpng/futures/master/futures-57.png</key>
                     <string>57*57尺寸的icon下载地址</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
-                    <key>https://github.com/jacklpng/futures/blob/master/futures-512.png</key>
+                    <key>https://raw.githubusercontent.com/jacklpng/futures/master/futures-512.png</key>
                     <string>512*512尺寸的icon下载地址</string>
                 </dict>
             </array>
@@ -31,11 +31,11 @@
                 <key>bundle-identifier</key>
                 <string>内测app的bundleidentifier</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>掌上期货通</string>
             </dict>
         </dict>
     </array>
