@@ -16,13 +16,14 @@
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
-                    <key>https://raw.githubusercontent.com/jacklpng/futures/master/futures-57.png</key>
+                    <key>https://github.com/jacklpng/futures/raw/master/futures-57.png</key>
+					     
                     <string>57*57尺寸的icon下载地址</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
-                    <key>https://raw.githubusercontent.com/jacklpng/futures/master/futures-512.png</key>
+                    <key>https://github.com/jacklpng/futures/raw/master/futures-512.png</key>
                     <string>512*512尺寸的icon下载地址</string>
                 </dict>
             </array>
